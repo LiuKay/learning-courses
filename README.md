@@ -24,4 +24,9 @@ Jupyter code notebook of "ChatGPT Prompt Engineering for Developers" by DeepLear
 
 ## [LangChain Chat with Your Data](https://learn.deeplearning.ai/langchain-chat-with-your-data/lesson/1/introduction)
 
-TODO
+1. [Document Loading](./LangChain%20Chat%20with%20Your%20Data/01_document_loading.ipynb)
+2. [Document Splitting](./LangChain%20Chat%20with%20Your%20Data/02_document_splitting.ipynb)
+3. [VectorStore and Embedding](./LangChain%20Chat%20with%20Your%20Data/03_vectorstores_and_embeddings.ipynb)
+4. [Retrieval](./LangChain%20Chat%20with%20Your%20Data/04_retrieval.ipynb)
+5. [Question Answering](./LangChain%20Chat%20with%20Your%20Data/05_question_answering.ipynb)
+6. [Chat](./LangChain%20Chat%20with%20Your%20Data/06_chat.ipynb)
